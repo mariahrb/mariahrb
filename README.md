@@ -16,3 +16,5 @@ I thrive on minimalism, but I don't mind a dash of fun.
 
 > “Simplicity is the ultimate sophistication.”  
 > — but a little quirk never hurt anyone.
+
+[![Mariah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariahrb)](https://github.com/anuraghazra/github-readme-stats)
