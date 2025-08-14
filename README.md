@@ -11,10 +11,8 @@ I thrive on minimalism, but I don't mind a dash of fun.
 ## Connect with me
 
 - 🌐 [Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- ✉️ Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/mariahbarreto)
+- ✉️ Email: mariahrangelbarreto@gmail.com
 
 > “Simplicity is the ultimate sophistication.”  
 > — but a little quirk never hurt anyone.
-
-[![Mariah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariahrb)](https://github.com/anuraghazra/github-readme-stats)
