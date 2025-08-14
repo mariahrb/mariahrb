@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**mariahrb/mariahrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mariah, a software developer & student who loves integrating ideas and designing quirky solutions.  
+I thrive on minimalism, but I don't mind a dash of fun.
 
-Here are some ideas to get you started:
+- 💻 I build things for the web, and sometimes break them (for science).
+- 🧠 Student by day, developer by night (and sometimes both).
+- 🎨 Minimalist at heart, but my code occasionally wears funny hats.
+- 📚 I love reading—it's like debugging reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+- 🌐 [Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- ✉️ Email: your.email@example.com
+
+> “Simplicity is the ultimate sophistication.”  
+> — but a little quirk never hurt anyone.
